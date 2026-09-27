@@ -49,7 +49,3 @@ imagery, motivated by Dr. Zhang's Spectral Kernel Machines framework.
   and fixed during this work — see commit history.
 - `accuracy_score` alone hid meaningful per-class failure in both datasets;
   confusion matrices and macro-averaged F1 were necessary to see it.
-
-## Files
-- `pavia_university_svm.ipynb`
-- `indian_pines_svm.ipynb`
